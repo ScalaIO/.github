@@ -7,7 +7,7 @@
 
 ### 🌟 Introduction
 
-Welcome to Scala.IO, the premier conference for individuals passionate about the Scala ecosystem and those curious about the language and its uses. This event is a unique platform for exchanging ideas, learning, and networking.
+Welcome to Scala.IO, a conference for individuals passionate about the Scala ecosystem and those curious about the language and its uses. This event is a unique platform for exchanging ideas, learning, and networking.
 
 ---
 
